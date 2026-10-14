@@ -1,3 +1,5 @@
+![mornrain-nimbus-docs](assets/preview.png)
+
 # Nimbus Docs
 
 文档与知识库 WordPress 主题。左侧固定目录树 + 右侧正文 + 站内搜索，目录折叠状态本地记忆，文档反馈按钮、代码复制、上下节导航、打印友好样式。零外部资源依赖。
